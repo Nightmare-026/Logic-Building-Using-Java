@@ -1,3 +1,5 @@
+// Problem : Compare two numbers and print the larger one.
+
 package basic_problems;
 
 import java.util.Scanner;

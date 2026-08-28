@@ -1,3 +1,6 @@
+// Problem : Check whether a given number is even or odd using the modulus operator.
+
+
 package basic_problems;
 
 import java.util.Scanner;
