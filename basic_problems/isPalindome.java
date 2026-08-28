@@ -23,6 +23,8 @@ public class isPalindome {
             } else{
                 System.out.println("Your number is not a Palindrome.");
             }
+
+            sc.close();
         }
 
 
