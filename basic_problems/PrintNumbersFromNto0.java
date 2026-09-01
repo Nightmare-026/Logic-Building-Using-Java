@@ -1,7 +1,7 @@
 package basic_problems;
 import java.util.Scanner;
 
-public class PrintNumbersFrom0toN {
+public class PrintNumbersFromNto0 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the value of N : ");
