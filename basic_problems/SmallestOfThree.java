@@ -41,7 +41,7 @@ public class SmallestOfThree {
                 System.out.println(num3 + " is the smallest of the three.");
             }
         }
-        sc.close();
+     
 
     }
 }
